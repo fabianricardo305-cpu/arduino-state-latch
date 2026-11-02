@@ -20,7 +20,7 @@ This project reads digital input from a physical push button and toggles an acti
 
 ---
 
-## 💻 Firmware & Logic (C++)
+## Firmware & Logic (C++)
 The core logic tracks button state changes and flips an internal boolean state flag only upon a complete press-and-release transition. 
 
 ```cpp
